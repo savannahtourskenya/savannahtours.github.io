@@ -17,8 +17,9 @@ Explore the Maasai Mara, Amboseli, Samburu, Diani Beach, Mt. Kenya, and more.
 ## Samburu
 ![Samburu](assets/samburu.jpg)
 
-## Diani Beach
-![Diani Beach](assets/diani.jpg)
+#### Diani Beach
+![Diani Beach](assets/images/diani.jpg)
+
 
 
 ## Mt. Kenya
@@ -33,4 +34,3 @@ Explore the Maasai Mara, Amboseli, Samburu, Diani Beach, Mt. Kenya, and more.
 ---
 
 © Savannah Trails Safaris
-
