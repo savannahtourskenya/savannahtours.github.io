@@ -18,7 +18,8 @@ Explore the Maasai Mara, Amboseli, Samburu, Diani Beach, Mt. Kenya, and more.
 ![Samburu](assets/samburu.jpg)
 
 ## Diani Beach
-![diani](assets/diani%20beach.jpg)
+![Diani Beach](assets/diani.jpg)
+
 
 ## Mt. Kenya
 ![Mt. Kenya](assets/Mt%20kenya.jpg)
