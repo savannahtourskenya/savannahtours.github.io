@@ -1,0 +1,9 @@
+title: Savannah Trails Safaris
+email: savannahtourskenya@gmail.com
+description: "Explore Kenya, Experience Life"
+baseurl: "" # leave empty since your repo is savannahtours.github.io
+url: "https://savannahtourskenya.github.io"
+
+# theme: minima   # ❌ disabled so it uses your own _layouts/default.html
+
+markdown: kramdown
